@@ -26,6 +26,12 @@ Papers, etc.
 Teaching
 ======
 
-* 2019 - Current: Teaching Assistant for the CS units [Imperative and Functional Programming](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMS10016) (1st Year), [Object-Oriented Programming](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMS10017) (1st Year), [Programming Languages and Computation](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMS20007) (2nd Year), [Types and Lambda Calculus](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMS30039) (3rd Year), [Advanced Topics in Programming Languages](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMSM0066) (4th Year) @ University of Bristol.
-* 2022 - Current: Guest Lecturer for the CS unit [Object-Oriented Programming](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMS10017) (1st Year) @ University of Bristol.
+* 2019 - Current: Teaching Assistant for the CS units at the University of Bristol:
+  + [Imperative and Functional Programming](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMS10016) (1st Year)
+  + [Object-Oriented Programming](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMS10017) (1st Year)
+  + [Programming Languages and Computation](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMS20007) (2nd Year)
+  + [Types and Lambda Calculus](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMS30039) (3rd Year)
+  + [Advanced Topics in Programming Languages](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMSM0066) (4th Year) 
+* 2022 - Current: Guest Lecturer for the CS unit at the University of Bristol. 
+  + [Object-Oriented Programming](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMS10017)
 

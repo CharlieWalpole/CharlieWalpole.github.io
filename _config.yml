@@ -83,7 +83,7 @@ author:
   name             : "Charlie Walpole"
   avatar           : "profile.png"
   bio              : "Researches programming languages at the University of Bristol"
-  location         : ""
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0009-0004-9011-1202"
+  orcid            : #"http://orcid.org/0009-0004-9011-1202" #correct but empty
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
