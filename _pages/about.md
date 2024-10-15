@@ -13,7 +13,7 @@ I am a PhD student under [Steven Ramsay](https://sjrsay.github.io) at the School
 Research
 ======
 
-I have previously worked on a type system for functional languages that can prove both correctness and incorrectness results of programs. This was done via a sequent calculus where the atomic formulae are program typings. [[λ](https://doi.org/10.48550/arXiv.2307.06928)]
+I have previously worked on a type system for functional languages that can prove both correctness and incorrectness results of programs. This was done via a sequent calculus where the atomic formulae are program typings. [[λ](https://dl.acm.org/doi/10.1145/3632909)]
 
 I am currently working on a type refinement system for OO programming languages (specifically c#) that gives stronger guarantees on functional style code. More specifically, I am working on solving pattern match safety in modern OO languages that allow for conditionals on runtime types. This work uses
 [Intensional Refinement Types](https://doi.org/10.48550/arXiv.2008.01452) as a basis.
@@ -21,7 +21,7 @@ I am currently working on a type refinement system for OO programming languages 
 Papers, etc.
 ======
 
-* Ill-Typed Programs Don't Evaluate ([Steven Ramsay](https://sjrsay.github.io), Charlie Walpole) [[λ](https://doi.org/10.48550/arXiv.2307.06928)]
+* Ill-Typed Programs Don't Evaluate ([Steven Ramsay](https://sjrsay.github.io), Charlie Walpole) [[λ](https://dl.acm.org/doi/10.1145/3632909)]
 
 Teaching
 ======
